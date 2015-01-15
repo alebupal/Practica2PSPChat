@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica2PSPChat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="tvIdioma">Idioma: </string>
+    <string name="tvVelocidad">Velocidad: </string>
+    <string name="tvTono">Tono: </string>
+    <string name="btAceptar">Aceptar</string>
+    <string name="tonoVelocidad">1</string>
+    <string-array name="idioma">
+        <item>Español</item>
+        <item>Ingles</item>
+    </string-array>
+</resources>
