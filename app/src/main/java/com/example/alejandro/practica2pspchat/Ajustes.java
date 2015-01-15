@@ -37,7 +37,6 @@ public class Ajustes extends ActionBarActivity {
             }
             public void onNothingSelected(AdapterView<?> parent) {
             }
-
         });
 
         SeekBar sbVelocidad;
